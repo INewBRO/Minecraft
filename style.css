@@ -1,0 +1,40 @@
+main h1 {
+    text-align: center; color: gray; background-color: lightgray;
+}
+
+main h2 {
+    text-align: center; color:gray; background-color: lightgray;
+}
+
+body {
+    background-color: gray;
+}
+
+header {
+    background-color:darkgray;
+}
+
+header a {
+    text-decoration: none; border: black solid 1px; border-radius: 10px; font-size: 15px;
+    padding: 3px; margin: 3px; background-color: darkgray;
+}
+
+p {
+    font-size: 20px; color: darkgray;
+}
+
+h1 img {
+    height: 30px; width: 30px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid blue; text-align: center;
+}
+
+tr {
+    border: 1px solid blue;
+}
